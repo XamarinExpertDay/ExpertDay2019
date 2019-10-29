@@ -6,4 +6,5 @@
 - Tomasz (Cheesebaron) - *Debugging Android UI*: https://github.com/Cheesebaron/android-layout-perf
 - Mark - *Building your IoT front end with Xamarin Froms*: https://github.com/mallibone/XamarinExpertsDay2019
 - Codrina - *UI Testing with Xamarin.Forms*: https://github.com/codrinamerigo/ladybug
+- Konrad - *An introduction to authentication with OpenID Connect*: https://github.com/krdmllr/openidconnectsample
  
