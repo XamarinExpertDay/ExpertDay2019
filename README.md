@@ -7,4 +7,4 @@
 - Mark - *Building your IoT front end with Xamarin Froms*: https://github.com/mallibone/XamarinExpertsDay2019
 - Codrina - *UI Testing with Xamarin.Forms*: https://github.com/codrinamerigo/ladybug
 - Konrad - *An introduction to authentication with OpenID Connect*: https://github.com/krdmllr/openidconnectsample
- 
+- Jean-Marie - *Free Yourself From IsBusy=true*: https://github.com/roubachof/SLIDES_FreeYourselfFromIsBusy 
