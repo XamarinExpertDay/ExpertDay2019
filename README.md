@@ -8,3 +8,4 @@
 - Codrina - *UI Testing with Xamarin.Forms*: https://github.com/codrinamerigo/ladybug
 - Konrad - *An introduction to authentication with OpenID Connect*: https://github.com/krdmllr/openidconnectsample
 - Jean-Marie - *Free Yourself From IsBusy=true*: https://github.com/roubachof/SLIDES_FreeYourselfFromIsBusy 
+- Dennie Declercq - *Improving people with disabilities life with Xamarin.Essentials* Source code + files: https://github.com/DDSoftDennie/DDGuard
