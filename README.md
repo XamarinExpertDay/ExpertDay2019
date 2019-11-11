@@ -9,3 +9,6 @@
 - Konrad - *An introduction to authentication with OpenID Connect*: https://github.com/krdmllr/openidconnectsample
 - Jean-Marie - *Free Yourself From IsBusy=true*: https://github.com/roubachof/SLIDES_FreeYourselfFromIsBusy 
 - Dennie Declercq - *Improving people with disabilities life with Xamarin.Essentials* Source code + files: https://github.com/DDSoftDennie/DDGuard
+
+## Pictures from event
+https://www.flickr.com/photos/xamexpertday/albums/72157711570868437
