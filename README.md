@@ -131,7 +131,7 @@ Improve performance of your Android UI, using the wealth of tools provided in An
     
 ### UI Testing with Xamarin.Forms
 
-**Codrina Merigo**
+**Codrina Merigo** - [@&#95;Codrina&#95;](https://twitter.com/_Codrina_)
 
 Learn more about the UI Test for Xamarin.Forms using a BDD approach. Also a demo on writing and have all green tests for your app.
 
